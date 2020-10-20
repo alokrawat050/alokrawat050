@@ -1,4 +1,5 @@
-![Alok's Github Stats](https://github-readme-stats.vercel.app/api?username=alokrawat050&show_icons=true&theme=radical) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokrawat050&layout=compact)](https://github.com/alokrawat050/github-readme-stats)
+![Alok's Github Stats](https://github-readme-stats.vercel.app/api?username=alokrawat050&show_icons=true&theme=radical) &nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokrawat050&layout=compact&langs_count=6)](https://github.com/alokrawat050/github-readme-stats)
 
 <h2 align="center">Hello folks! My name is Alok Rawat. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
 
