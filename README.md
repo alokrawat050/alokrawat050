@@ -18,7 +18,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 💼 Where i am currently working at/as
 <!-- Working Status:START -->
-- [VeBuIn株式会社: Project Manager and Tech Lead](https://owlsectechnologies.co.ke) 💼 
+- [VeBuIn株式会社: Project Manager and Tech Lead](https://vebuin.com/) 💼 
 <!-- Working Status:END -->
 
 ### 📫 Where to find me
