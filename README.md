@@ -18,7 +18,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 💼 Where i am currently working at/as
 <!-- Working Status:START -->
-- [VeBuIn株式会社: Project Manager and Tech Lead](https://vebuin.com/) 💼 
+- [NTT DATA先端技術: Chief Engineer | Project Manager](https://www.intellilink.co.jp/) 💼 
 <!-- Working Status:END -->
 
 ### 📫 Where to find me
